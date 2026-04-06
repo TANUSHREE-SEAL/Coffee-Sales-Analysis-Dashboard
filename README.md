@@ -43,5 +43,6 @@ Explore charts to gain insights
 📸 **Dashboard Preview**-
 <img width="1195" height="661" alt="Screenshot 2026-03-17 211536" src="https://github.com/user-attachments/assets/b9df8c5b-7960-49e6-a10e-f2977413e73d" />
 
-
+🤝 **Contributing**-
 Feel free to fork this repository and contribute by improving the dashboard or adding new insights.
+
