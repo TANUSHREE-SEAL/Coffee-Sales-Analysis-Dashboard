@@ -1,5 +1,5 @@
-# Coffee-Sales-Analysis-Dashboard
-☕ **Coffee Shop Sales Analysis Dashboard**
+# Coffee-Sales-Analysis-Dashboard (EXCEL)
+☕ **Coffee Shop Sales Analysis Dashboard** (EXCEL)
 
 📌 **Overview**-
 This project presents a comprehensive analysis of coffee shop sales data using an interactive Excel dashboard. It helps uncover key business insights such as sales trends, customer behavior, and product performance.
